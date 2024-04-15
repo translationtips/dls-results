@@ -60,7 +60,7 @@ in other tables of results.
 
 ### Expanded_Name
 
-An expanded desciption of the feature.
+An expanded description of the feature.
 
 ### Languages_Supported
 
@@ -71,7 +71,7 @@ the feature was found to support.
 ## File: *DLS scores for 10% of languages.csv*
 
 This is a UTF-8 encoded CSV file consisting of a header row 
-containing the column nanes, followed by one row for each of the 783
+containing the column names, followed by one row for each of the 783
 languages in the 10% sample.
  The languages are listed in order
 of the Proportional_Score from highest to lowest, and 
@@ -161,7 +161,7 @@ the sum of these subscale scores.
 ## File: *DLS features for 10% of languages.csv*
 
 This is a UTF-8 encoded CSV file consisting of a header row 
-containing the column nanes, followed by one row for every
+containing the column names, followed by one row for every
 DLS feature that was harvested for every language
 in the 10% sample.
 The languages are listed by descending order of Proportional_Score
